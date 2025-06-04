@@ -1,0 +1,25 @@
+## Checking version:
+git --version
+
+## Setting your nameand email with:
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+
+## Checking the config with:
+git config --list
+
+## Create a new repo in the current folder:
+git init
+
+## See the hidden file / folders like git:
+Press Command (⌘) + Shift + . (period)
+
+## See what branch, the commits and what's untracked
+git status
+
+## add the file you want to the files ready to be commited (or all files)
+git add fileName.js (just for that specific file)
+git add . (for all file)
+
+##
+git commit -m "message you want to remember the change"
