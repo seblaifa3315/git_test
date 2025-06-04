@@ -22,4 +22,4 @@ git add fileName.js (just for that specific file)
 git add . (for all file)
 
 ## Commit what is ready to be committed
-git commit -m "message you want to remember the change"
+git commit -m "message you want to remember the changes"
