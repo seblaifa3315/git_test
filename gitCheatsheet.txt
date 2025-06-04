@@ -23,3 +23,7 @@ git add . (for all file)
 
 ## Commit what is ready to be committed
 git commit -m "message you want to remember the changes"
+
+## log all the commit
+git log (press q to exit)
+git log --oneline
