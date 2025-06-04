@@ -27,3 +27,13 @@ git commit -m "message you want to remember the changes"
 ## log all the commit
 git log (press q to exit)
 git log --oneline
+
+## go to a specific version
+git checkout main (<commit number>)
+
+## add the github url to the repo origin
+git remote add origin <url from github>
+
+
+## push to github
+git push -u origin main
